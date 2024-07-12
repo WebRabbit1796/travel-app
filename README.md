@@ -1,4 +1,4 @@
-## Headout Clone by ~ lastnamearya
+## Travel App
 Currently main route(home) and New York route is active.
 
 
@@ -13,10 +13,9 @@ Currently main route(home) and New York route is active.
 -------------------------------------------------------
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lastnamearya.svg?style=social&label=Follow%20%40lastnamearya)](https://twitter.com/lastnamearya)
 
-:house:&nbsp; [lastnamearya.github.io](https://lastnamearya.github.io)
+:house:&nbsp; [howardjohnson159.github.io](https://howardjohnson159.github.io)
 
-:email:&nbsp; arya.jigyasu6815@gmail.com
+:email:&nbsp; howardjohnson9817@gmail.com
 
 
